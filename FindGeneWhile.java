@@ -3,7 +3,7 @@
 /**
  * Write a description of FindGeneWhile here.
  * 
- * @author (your name) 
+ * @author Tom Courtney 
  * @version (a version number or a date)
  */
 public class FindGeneWhile {
